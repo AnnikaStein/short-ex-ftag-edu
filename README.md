@@ -60,4 +60,5 @@ Learn how network performance is evaluated and which performance metrics play a 
 ### Bonus
 Get to know how performance looks like not only on simulation, but also on detector data and understand the necessary tasks to be performed before one can actually use the taggers in an analysis.
 ## Contact
-**_Annika Stein, 2023_**, :email: [annika-stein@cern.ch](mailto:annika-stein@cern.ch), :octocat: [@AnnikaStein](https:github.com/AnnikaStein)
+**_Annika Stein, 2023_**  
+:email: [annika-stein@cern.ch](mailto:annika-stein@cern.ch), :octocat: [@AnnikaStein](https://github.com/AnnikaStein)
