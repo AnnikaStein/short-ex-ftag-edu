@@ -3,7 +3,7 @@
 Welcome to the Flavour-Tagging Short Exercise held at CMSDAS@CERN 2023!
 
 ## Intro
-A set of slides with introductory material, definitions, useful links is available at [ToDo](ToDo).
+A set of slides with introductory material, definitions, useful links is available at [Indico](https://indico.cern.ch/event/1257234/timetable/#44-short-exercise-4b-flavour-t).
 ## Setup
 To start with the exercises, perform these initial steps for the setup at lxplus (e.g. after doing `ssh -l your-lxplus-username lxplus.cern.ch` from your own machine):
 
@@ -55,7 +55,7 @@ Explore the inputs which are used to perform jet flavour tagging with some examp
 ### Performance
 Learn how network performance is evaluated and which performance metrics play a key role for flavour tagging. Perform more studies to evaluate performance as a function of certain parameters and compare across samples.
 ### Bonus
-Get to know how performance looks like not only on simulation, but also on detector data and understand the necessary tasks to be performed before one can actually use the taggers in an analysis.
+Explore how performance depends on kinematic quantities related to the jet. This is one concept to keep in mind, differential distributions *do* matter (not only inclusive metrics), in this case explored for simple features like pseudorapidity and transverse momentum. Most likely you will also need to adapt to differentially measured scale factors (in bins of disciminators, though) when using such algorithms in an analysis.
 ## Contact
 **_Annika Stein, 2023_**  
 :email: [annika-stein@cern.ch](mailto:annika-stein@cern.ch), :octocat: [@AnnikaStein](https://github.com/AnnikaStein)
